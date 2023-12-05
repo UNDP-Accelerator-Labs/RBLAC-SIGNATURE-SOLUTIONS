@@ -1,10 +1,9 @@
-title: UNDP AccLab Toolkit Micro-site template
-description: >
-  Welcome to the UNDP AccLab Toolkit Micro-site project! This README provides a quick guide on how to set up and customize your Toolkit site.
+title: RBLAC SIGNATURE SOLUTIONS
+description: Welcome to the ACC LAB Tools from the LAC region to support UNDP signature solutions.
 
 header_background_color: "#FF5733"
 
-header_info_text: "This is a prototype. Please help the UNDP Accelerator Labs improve it by <a href='https://forms.office.com/e/iLZf9V6aDZ' target='_blank'>participating in user testing</a>."
+header_info_text: "This is a prototype. Please bear with us while we complete it."
 logo_image_path: "/public/imgs/UNDP_accelerator_labs_logo_vertical_color_RGB.png"
 
 

@@ -2,7 +2,6 @@
 title: Contributors
 layout: default
 
-parent: Home
 has_children: false
 
 menu: 4
