@@ -1,3 +1,4 @@
 exclude:
   - README.md
+  - markdown_sample.md
 baseurl: "/RBLAC-SIGNATURE-SOLUTIONS"
