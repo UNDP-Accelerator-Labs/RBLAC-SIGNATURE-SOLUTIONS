@@ -1,4 +1,20 @@
+baseurl: "/RBLAC-SIGNATURE-SOLUTIONS"
+plugins:
+    - jekyll-seo-tag
+gems:
+  - jekyll-email-protect
 exclude:
   - README.md
   - markdown_sample.md
-baseurl: "/RBLAC-SIGNATURE-SOLUTIONS"
+  - Tutorials/
+  - vendor
+  - CNAME
+  - README.md
+  - node_modules
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - packages
+  - bin
