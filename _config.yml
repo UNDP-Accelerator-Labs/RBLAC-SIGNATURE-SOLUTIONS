@@ -1,4 +1,4 @@
-baseurl: "/RBLAC-SIGNATURE-SOLUTIONS"
+baseurl: "/Innovation-Toolkit-for-UNDP-Signature-Solutions"
 plugins:
     - jekyll-seo-tag
 gems:
