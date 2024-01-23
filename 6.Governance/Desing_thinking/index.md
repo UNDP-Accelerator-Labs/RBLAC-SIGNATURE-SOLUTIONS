@@ -4,12 +4,65 @@ parent_order: 6
 nav_order: 1
 layout: default
 ---
-# How to use this toolkit
+#### **Using design thinking to design public products or services**
 
-## Download
-You can download file from [here]
+#### What it does.
 
-You can also download a sample pdf from [this link]
+This tool enables you to apply design thinking, one of the most used methods for public innovation, to design or improve public products or services in collaboration with users, particularly those from vulnerable contexts. Design thinking is a user-centered approach that prioritizes placing the user at the center of the design process. This is because the individuals who will ultimately use the product or service are the ones who best understand the necessary features to meet their needs, desires, and expectations.
 
+#### Value proposition for the government/other partner.
 
-# Glossary
+Applying design thinking enables national and local governments to:
+
+- (1) strengthen their capacities in public innovation through hands-on experience;
+- (2) ensure that the responses are genuinely relevant and effective by gaining a deep understanding of the specific needs of users;
+- (3) design cost-effective solutions;
+- and (4) foster closer citizen-government relationships by establishing a collaborative and co-creative work routine.
+
+#### Why and when to use it.
+
+To use design thinking is always beneficial to promote public innovation and effective public services and products. Whether the government is new to public innovation or has extensive experience, including users in the design process is always valuable. The design thinking guidance for public products or services needs translation in the official language from Spanish.
+
+#### Known issues and troubleshooting.
+
+To use design thinking for designing public products or services might not be the best approach if:
+
+- (1) the government does not have a designated team or other resources to implement the solutions obtained from the design thinking method and sustain these solutions over time;
+- and (2) the governmental team involved in the process does not have the means to include users as part of the team and foster a working relationship based on trust, commitment, and respect.
+
+#### Context.
+
+As a member of the Open Government Partnership (OGP), Ecuador is committed to have a more open and participatory government. In this line, as part of the OGP Action Plan 2019-2022 it aimed to have an Innovation Citizen Lab for the first time in the country. UNDP´s Acc Lab played a key role offering in 2022 technical assistance to design, implement and operate the Citizen Lab called Thinkia. The Secretariat of Higher Education and Innovation of Ecuador has the lead of this Lab and runs it along with other 7 actors from the academia (2), civil society organizations (2), other public institutions (2), and cooperation sector (UNDP). The government uses a shared and decentralized governance model for Thinkia: citizen lab to include other actors as part of the management team and decision-making process.
+
+One of the activities in Thinkia: Citizen Lab's work plan for 2023 is to support local governments and other public institutions in implementing public innovation processes. In this regard, the Municipal Unit San José of Quito decided to strengthen its services for individuals experiencing homelessness, with a focus on finding solutions through public innovation processes. The UNDP Accelerator Lab, as part of Thinkia's management team, provided support to the Municipality of Quito in enhancing the capacities and knowledge of its officials in public innovation and in implementing a pilot project aimed at improving services for people experiencing homelessness.
+
+#### Cost to implement.
+
+To hire a person responsible for managing all logistics and coordination, a budget of between USD 4,500 and 6,500 will be required.
+
+#### Time
+
+To design a public product or service using design thinking alongside public counterparts and including the end-user, it will take 6 to 8 months.
+
+#### People.
+
+To use this tool the following team members will be required:
+
+- A person who pitches key ideas to local governments or other public institutions, promoting the implementation of public innovation processes and persuading counterparts to seek Thinkia Citizen Lab's support and guidance. (UNDP in-kind contribution)
+- A person responsible for managing all logistics and coordinating the implementation of the innovation process.
+
+#### Focal point.
+
+Ana M. Grijalva, Head of Exploration in UNDP Ecuador, [ana.grijalva@undp.org](mailto:ana.grijalva@undp.org)
+
+Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
+
+She is excited to collaborate in changing the status quo through public and social innovation, data analysis, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
+
+#### Country, year, and language.
+
+Ecuador, 2022-2023, Spanish
+
+#### Resources.
+
+- Blog (English) – [Leaving no one behind: redesigning municipal services](https://www.undp.org/es/ecuador/blog/leaving-no-one-behind-redesigning-municipal-services-people-experiencing-homelessness)
