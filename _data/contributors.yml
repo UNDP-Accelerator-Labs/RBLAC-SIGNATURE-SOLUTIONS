@@ -7,6 +7,16 @@ Carlos Mazariegos:
   organization: UNDP Guatemala Accelerator Lab
                 Head of Exploration
   linkedin: https://www.linkedin.com/in/cmazariegos
+  
+Javier Brolo:
+  name: Javier Brolo
+  bio: Javier Brolo is a social scientist specialized in quantitative and qualitative research methods. His academic training is in Philosophy, Mathematics, and Political Science. He has worked as lead researcher in different Think Tanks and as university professor. His interest in crude developing solutions to complex social problems, strengthening democratic institutions, attitude and behavior changes, and conducting impact evaluations with diverse and committed teams.
+  email: javier.brolo@undp.org
+  picture_dir: '/imgs/contributors/Carlos_brolo.png'
+  organization: UNDP Guatemala Accelerator Lab
+                Head of Experimentation 
+  twitter: @javierbrolo 
+  linkedin: https://www.linkedin.com/in/javierbrolo
 
 Ana M. Grijalva:
   name: Ana M. Grijalva
@@ -18,11 +28,3 @@ Ana M. Grijalva:
                 Head of Exploration
   linkedin: https://www.linkedin.com/in/ana-grijalva
 
-John-doe:
-  name: John Doe
-  bio: This is John Doe bio
-  email: John.doe@email.com
-  # picture_dir: '/img/contributors/John.png'
-  twitter: #
-  github: https://github.com/this-pama
-  linkedin: https://www.linkedin.com/
