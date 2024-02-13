@@ -25,21 +25,3 @@ Javier Brolo:
   picture_dir: '/imgs/contributors/Javier_brolo.png'
   # twitter: @javierbrolo 
   linkedin: https://www.linkedin.com/in/javierbrolo 
-
-  John-doe:
-  name: John Doe
-  bio: This is John Doe bio
-  email: John.doe@email.com
-  # picture_dir: '/imgs/contributors/John.png'
-  twitter: #
-  github: https://github.com/this-pama
-  linkedin: https://www.linkedin.com/
-
-  John-doe:
-  name: John Doe
-  bio: This is John Doe bio
-  email: John.doe@email.com
-  # picture_dir: '/imgs/contributors/John.png'
-  twitter: #
-  github: https://github.com/this-pama
-  linkedin: https://www.linkedin.com/
