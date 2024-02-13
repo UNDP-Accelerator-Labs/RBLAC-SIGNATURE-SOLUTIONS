@@ -1,0 +1,57 @@
+---
+title: by using design thinking to design public products or services
+parent_order: 7
+nav_order: 1
+layout: default
+
+signature_solutions: [Governance, Resilience, Gender equality]
+rblac_priorities: [Equity and inclusion]
+sdg: [5 Gender Equality, 10 Reduce Inequalities, 16 Peace Justice And Strong Institutions]
+
+---
+## Using interactive and participatory discussions to change perspective
+
+#### What it does. 
+This tool enables you to facilitate interactive and participatory discussions, an activity that invites participants to collaboratively construct knowledge around a specific topic. The goal is to provide information - based on the reading - generate reflection, change perspectives, and potentially influence behavior. The organizers of these gatherings choose the topic to discuss, and participants select what they want to read from a list of optional readings. The gatherings promote horizontal dialogue, fostering an equal and safe space for everyone to participate and reflect. 
+
+#### Value proposition for the government/other partner. 
+Applying interactive and participatory discussions enables stakeholders to: 
+-(1) Increase awareness involves exposing participants to different experiences and viewpoints, prompting them to reconsider their own perspectives and behaviors.  
+-(2) Develop empathy through open dialogue, participants have the chance to empathize with other´s viewpoints, experiencing a deeper understanding of the impact of their own actions.   
+-(3) Ownership of change is more likely when participants actively contribute to discussions, as they feel responsible for and committed to altering their perspectives and behaviors.  
+-and (4) participatory discussions promote a cultural shift when groups collectively agree on the need for change and actively discuss strategies, fostering a shared sense of purpose.
+
+#### Why and when to use it. 
+This tool empowers stakeholders to reshape participants' perspectives on a specific topic, potentially prompting behavioral changes when the process is sustained over time, coupled with a strategic approach to acting. The tool is user-friendly, cost-effective, and yields results in the short term, making it applicable for any stakeholders. The guidelines for this tool are currently in Spanish and require translation.
+
+#### Known issues and troubleshooting. 
+To use interactive and participatory discussions might not be the best approach if:
+-(1) stakeholders and participants can't commit to sustaining a weekly discussions;  
+-and (2) stakeholders don't have a broader strategy to raise awareness for the topic of their interest of and promote a change in perspective among the participants.
+
+#### Context. 
+In the framework of "Spotlight Initiative" which is a joint program of the European Union and the United Nations, with the goal of eliminating all forms of violence against women and girls in Member States by the year 2030. The execution of this initiative is coordinated by United Nations agencies: UN Women, the United Nations Population Fund (UNFPA), and UNDP, in collaboration with a few public institutions. As part of this initiative, we are implementing an intervention called "Brave Schools" in the educational system. The aim is to assess whether interactive and participatory discussions can lead to changes in perspective and, subsequently, in behavior regarding gender-based violence and discrimination among students.
+
+We created a safe space for dialogue and reflection on gender-based violence and discrimination within schools as a crucial mechanism to address this issue. Every week, adolescents gathered with their peers and a facilitator to share thoughts and reflections on gender roles and stereotypes based on a selected reading for the week. The exercise of engaging in collective dialogue and reflection resulted in a shift in perspective among students, as gender social norms were critically analyzed and challenged.
+
+#### Cost to implement. 
+To hire a person responsible for organizing, convening, and implementing interactive and participatory discussions, a budget ranging from USD 4,800 to 7,200 will be required, depending on the timeframe.
+
+#### Time.
+To convene and implement interactive and participatory discussions, it is recommended that the interactions with the participants last for a period of 4 to 6 months.
+#### People. 
+To use this tool the following team members will be required:
+-A person who pitches the methodology to stakeholders, emphasizing the transformative power of dialogue and discussions as tools to instigate a change in perspective and foster awareness. (UNDP in-kind contribution);  
+-A person responsible for managing all logistics and coordinating the implementation of the innovation process.
+
+#### Focal point. 
+[Ana M. Grijalva]( https://undp-accelerator-labs.github.io/Innovation-Toolkit-for-UNDP-Signature-Solutions/contributors/Ana%20M.%20Grijalva.html)
+
+#### Country, year, and language. 
+Ecuador, 2022-2023, Spanish
+
+#### Resources. 
+-Report (Spanish) – [Informe de resultados] 
+-Report (Spanish) – [Nota Metodológica] 
+-Report (Spanish) – [Estrategia de sostenibilidad y escalamiento] 
+-Manual (Spanish) – [Guía práctica de implementación] 
