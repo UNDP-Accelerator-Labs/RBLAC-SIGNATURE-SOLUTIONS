@@ -1,13 +1,3 @@
-Carlos Mazariegos:
-  name: Carlos Mazariegos
-  bio: Carlos experience and interests comprise data and social analytics, information and communication technologies (ICT) and socio-economic development in underserved communities. At UNDP Accelerator Labs, he leads the discovery and sense-making of emerging trends and their potential for accelerating progress toward SDGs, including fostering data-driven methodologies, establishing strategic data partnerships, and deploying scalable digital solutions. Carlos has collaborated in data initiatives in the United States, Europe, Africa and Latin America for the Inter-American Development Bank, United Nations Foundation, MIT Media Lab and Data-Pop Alliance, and deployed digital solutions for US-based startups and telecommunications providers.
-       Carlos is currently an MIT Connection Science Fellow, holds a M.S. Data Analytics, Management and Policy from Carnegie Mellon University and a B.S. in Electronic Engineering from Universidad de San Carlos de Guatemala.
-  email: carlos.mazariegos@undp.org
-  picture_dir: '/imgs/contributors/Carlos_mazariegos.jpg'
-  organization: UNDP Guatemala Accelerator Lab
-                Head of Exploration
-  linkedin: https://www.linkedin.com/in/cmazariegos
-
 Ana M. Grijalva:
   name: Ana M. Grijalva
   bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
@@ -18,18 +8,60 @@ Ana M. Grijalva:
                 Head of Exploration
   linkedin: https://www.linkedin.com/in/ana-grijalva
 
+Carlos Mazariegos:
+  name: Carlos Mazariegos
+  bio: Carlos experience and interests comprise data and social analytics, information and communication technologies (ICT) and socio-economic development in underserved communities. At UNDP Accelerator Labs, he leads the discovery and sense-making of emerging trends and their potential for accelerating progress toward SDGs, including fostering data-driven methodologies, establishing strategic data partnerships, and deploying scalable digital solutions. Carlos has collaborated in data initiatives in the United States, Europe, Africa and Latin America for the Inter-American Development Bank, United Nations Foundation, MIT Media Lab and Data-Pop Alliance, and deployed digital solutions for US-based startups and telecommunications providers.
+       Carlos is currently an MIT Connection Science Fellow, holds a M.S. Data Analytics, Management and Policy from Carnegie Mellon University and a B.S. in Electronic Engineering from Universidad de San Carlos de Guatemala.
+  email: carlos.mazariegos@undp.org
+  picture_dir: '/imgs/contributors/Carlos_mazariegos.jpg'
+  organization: UNDP Guatemala Accelerator Lab
+                Head of Exploration
+  linkedin: https://www.linkedin.com/in/cmazariegos
+
+Gabriel Lama:
+  name: Gabriel Lama
+  bio: Gabriela Ríos Landa is the Head of Exploration at the Accelerator Lab of the United Nations Development Programme (UNDP) in Mexico. She is part of a global network of professionals working to reimagine development and accelerate learning to achieve more sustainable futures. Before joining UNDP, she worked at the Laboratory for the City, the experimental arm of the government of Mexico City, developing innovative strategies to address public issues. She holds a master's degree in Future Studies from the Free University of Berlin and a bachelor's degree in Industrial Design from the Iberoamerican University in Mexico City.
+  email: gabriela.rios@undp.org
+  picture_dir: '/imgs/contributors/Gabiel_lama.jpg'
+  organization: UNDP Peru Accelerator Lab
+                Head of Exploration
+  twitter: @javierbrolo 
+  linkedin: https://www.linkedin.com/in/javierbrolo 
+
 Javier Brolo:
   name: Javier Brolo
   bio: Javier Brolo is a social scientist specialized in quantitative and qualitative research methods. His academic training is in Philosophy, Mathematics, and Political Science. He has worked as lead researcher in different Think Tanks and as university professor. His interest in crude developing solutions to complex social problems, strengthening democratic institutions, attitude and behavior changes, and conducting impact evaluations with diverse and committed teams.
   email: javier.brolo@undp.org
   picture_dir: '/imgs/contributors/Javier_brolo.png'
-  # twitter: @javierbrolo 
+  organization: UNDP Ecuador Accelerator Lab
+                Head of Exploration
+  twitter: @javierbrolo 
   linkedin: https://www.linkedin.com/in/javierbrolo 
 
-  Gabriela Ríos:
-  name: Gabriela Ríos
+Jorge Munguia:
+  name: Jorge Munguia
+  bio: Javier Brolo is a social scientist specialized in quantitative and qualitative research methods. His academic training is in Philosophy, Mathematics, and Political Science. He has worked as lead researcher in different Think Tanks and as university professor. His interest in crude developing solutions to complex social problems, strengthening democratic institutions, attitude and behavior changes, and conducting impact evaluations with diverse and committed teams.
+  email: javier.brolo@undp.org
+  picture_dir: '/imgs/contributors/Jorge_munguia.jpg'
+  organization: UNDP Mexico Accelerator Lab
+                Head of Exploration
+  twitter: @javierbrolo 
+  linkedin: https://www.linkedin.com/in/javierbrolo 
+
+Luis Fernando Cervantes:
+  name: Luis Fernando Cervantes
+  bio: Javier Brolo is a social scientist specialized in quantitative and qualitative research methods. His academic training is in Philosophy, Mathematics, and Political Science. He has worked as lead researcher in different Think Tanks and as university professor. His interest in crude developing solutions to complex social problems, strengthening democratic institutions, attitude and behavior changes, and conducting impact evaluations with diverse and committed teams.
+  email: javier.brolo@undp.org
+  picture_dir: '/imgs/contributors/Luis_cervantes.jpg'
+  organization: UNDP Mexico Accelerator Lab
+                Head of Exploration
+  twitter: @javierbrolo 
+  linkedin: https://www.linkedin.com/in/javierbrolo 
+
+Mariana Olcese:
+  name: Mariana Olcese
   bio: Gabriela Ríos Landa is the Head of Exploration at the Accelerator Lab of the United Nations Development Programme (UNDP) in Mexico. She is part of a global network of professionals working to reimagine development and accelerate learning to achieve more sustainable futures. Before joining UNDP, she worked at the Laboratory for the City, the experimental arm of the government of Mexico City, developing innovative strategies to address public issues. She holds a master's degree in Future Studies from the Free University of Berlin and a bachelor's degree in Industrial Design from the Iberoamerican University in Mexico City.
   email: gabriela.rios@undp.org
-  #picture_dir: '/imgs/contributors/Javier_brolo.png'
-  # twitter: @javierbrolo 
-  #linkedin: https://www.linkedin.com/in/javierbrolo 
+  picture_dir: '/imgs/contributors/Mariana_olcese.jpeg'
+  twitter: @javierbrolo 
+  linkedin: https://www.linkedin.com/in/javierbrolo 
