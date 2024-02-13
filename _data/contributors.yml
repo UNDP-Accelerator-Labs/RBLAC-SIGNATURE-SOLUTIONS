@@ -3,16 +3,19 @@ Carlos Mazariegos:
   bio: Carlos experience and interests comprise data and social analytics, information and communication technologies (ICT) and socio-economic development in underserved communities. At UNDP Accelerator Labs, he leads the discovery and sense-making of emerging trends and their potential for accelerating progress toward SDGs, including fostering data-driven methodologies, establishing strategic data partnerships, and deploying scalable digital solutions. Carlos has collaborated in data initiatives in the United States, Europe, Africa and Latin America for the Inter-American Development Bank, United Nations Foundation, MIT Media Lab and Data-Pop Alliance, and deployed digital solutions for US-based startups and telecommunications providers.
        Carlos is currently an MIT Connection Science Fellow, holds a M.S. Data Analytics, Management and Policy from Carnegie Mellon University and a B.S. in Electronic Engineering from Universidad de San Carlos de Guatemala.
   email: carlos.mazariegos@undp.org
-  # picture_dir: '/imgs/contributors/Carlos_mazariegos.png'
-  organization: UNDP Accelerator Labs
+  picture_dir: '/imgs/contributors/Carlos_mazariegos.png'
+  organization: UNDP Guatemala Accelerator Lab
+                Head of Exploration
   linkedin: https://www.linkedin.com/in/cmazariegos
 
 Ana M. Grijalva:
   name: Ana M. Grijalva
   bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
        She is excited to collaborate in changing the status quo through public and social innovation, data analysis, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
-  email:ana.grijalva@undp.org
-  # picture_dir: '/imgs/contributors/Ana_grijalva.jpg'
+  email: ana.grijalva@undp.org
+  picture_dir: '/imgs/contributors/Ana_grijalva.jpg'
+  organization: UNDP Ecuador Accelerator Lab
+                Head of Exploration
   linkedin: https://www.linkedin.com/in/ana-grijalva
 
 John-doe:
