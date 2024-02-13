@@ -7,33 +7,39 @@ Carlos Mazariegos:
   organization: UNDP Guatemala Accelerator Lab
                 Head of Exploration
   linkedin: https://www.linkedin.com/in/cmazariegos
-  
+
+Ana M. Grijalva:
+  name: Ana M. Grijalva
+  bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
+       She is excited to collaborate in changing the status quo through public and social innovation, data analysis, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
+  email: ana.grijalva@undp.org
+  picture_dir: '/imgs/contributors/Ana_grijalva.jpg'
+  organization: UNDP Ecuador Accelerator Lab
+                Head of Exploration
+  linkedin: https://www.linkedin.com/in/ana-grijalva
+
 Javier Brolo:
   name: Javier Brolo
   bio: Javier Brolo is a social scientist specialized in quantitative and qualitative research methods. His academic training is in Philosophy, Mathematics, and Political Science. He has worked as lead researcher in different Think Tanks and as university professor. His interest in crude developing solutions to complex social problems, strengthening democratic institutions, attitude and behavior changes, and conducting impact evaluations with diverse and committed teams.
   email: javier.brolo@undp.org
   picture_dir: '/imgs/contributors/Javier_brolo.png'
-  organization: UNDP Guatemala Accelerator Lab
-                Head of Experimentation 
-  twitter: @javierbrolo 
-  linkedin: https://www.linkedin.com/in/javierbrolo
+  # twitter: @javierbrolo 
+  linkedin: https://www.linkedin.com/in/javierbrolo 
 
-Ana M. Grijalva:
-  name: Ana M. Grijalva
-  bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
-       She is excited to collaborate in changing the status quo through public and social innovation, data analysis, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
-  email: ana.grijalva@undp.org
-  picture_dir: '/imgs/contributors/Ana_grijalva.jpg'
-  organization: UNDP Ecuador Accelerator Lab
-                Head of Exploration
-  linkedin: https://www.linkedin.com/in/ana-grijalva
+  John-doe:
+  name: John Doe
+  bio: This is John Doe bio
+  email: John.doe@email.com
+  # picture_dir: '/imgs/contributors/John.png'
+  twitter: #
+  github: https://github.com/this-pama
+  linkedin: https://www.linkedin.com/
 
-Ana M. Grijalva:
-  name: Ana M. Grijalva
-  bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has a vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador´s public sector, and has worked for the academia in the United Kingdom and Ecuador.
-       She is excited to collaborate in changing the status quo through public and social innovation, data analysis, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
-  email: ana.grijalva@undp.org
-  picture_dir: '/imgs/contributors/Ana_grijalva.jpg'
-  organization: UNDP Ecuador Accelerator Lab
-                Head of Exploration
-  linkedin: https://www.linkedin.com/in/ana-grijalva
+  John-doe:
+  name: John Doe
+  bio: This is John Doe bio
+  email: John.doe@email.com
+  # picture_dir: '/imgs/contributors/John.png'
+  twitter: #
+  github: https://github.com/this-pama
+  linkedin: https://www.linkedin.com/
