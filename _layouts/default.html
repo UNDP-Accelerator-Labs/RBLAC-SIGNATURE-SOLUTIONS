@@ -245,7 +245,7 @@
                   </div>
 
                   <!-- BEGIN TAGS AND SDG CHIPS -->
-                  {% if page.tags or page.sdg %}
+                  <!-- {% if page.tags or page.sdg %} -->
                   <div class="pt-3" >
                   <hr/>
                   <div>
@@ -258,21 +258,21 @@
                   <div>
                     {% if page.signature_solutions %}
                     <h5> Signature Solutions</h5>
-                    {% include corporate/category-chip.html %}
+                    {% include corporate/signature-solution-chip.html %}
                     {% endif %}
                   </div>
 
                   <div>
                     {% if page.enablers %}
                     <h5> Enablers</h5>
-                    {% include corporate/category-chip.html %}
+                    {% include corporate/enabler-chip.html %}
                     {% endif %}
                   </div>
 
                   <div>
                     {% if page.rblac_priorities %}
                     <h5> RBLAC Priorities </h5>
-                    {% include corporate/category-chip.html %}
+                    {% include corporate/rb-priority-chip.html %}
                     {% endif %}
                   </div>
 
@@ -284,7 +284,7 @@
                   </div>
 
                 </div>
-                {% endif %}
+                <!-- {% endif %} -->
                   <!-- END TAGS AND CATEGORY CHIPS -->
 
                 </div>
