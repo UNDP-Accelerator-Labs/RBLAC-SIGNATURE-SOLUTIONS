@@ -1,10 +1,37 @@
+Adedapo Aderemi:
+  name: Adedapo Aderemi
+  bio: An inventive and dynamic software developer with experience designing state-of-the-art web, mobile, IoT, and cloud engineering solutions. Proficient in a variety of frameworks and programming languages, I specialize in developing scalable and resilient applications. Utilizing cutting-edge technologies to address intricate challenges, propel digital revolutionization, and generate memorable user experiences constitutes my greatest enthusiasm. Continually seeking to improve, I excel in collaborative settings and am dedicated to remaining current with technological developments.
+  email: adedapo.aderemi@undp.org
+  picture_dir: '/imgs/contributors/Adedapo_aderemi.png'
+  organization: UNDP Accelerator Labs - Software Developer
+  linkedin: https://www.linkedin.com/in/adedapo-aderemi-03237271
+  
+Ana Carolina Diaz:
+  name: Ana Carolina Diaz
+  bio: Ana supports the implementation of the Bureau’s innovation strategy, including direct support to regional and country initiatives. She will also support the implementation of other strategic regional initiatives. Ana has nine years of experience working in the fields of international development and social impact. She has gained extensive expertise in spearheading innovative projects dedicated to poverty eradication, implementing the Sustainable Development Goals, and fostering the growth of the fourth sector of the economy. She holds a Master of Public Administration in Development Practice from Columbia University.
+  email: ana.diaz1@undp.org
+  picture_dir: '/imgs/contributors/Ana_diaz.png'
+  organization: UNDP’s Regional Bureau for Latin America and the Caribbean - Innovation Analyst
+  twitter: https://twitter.com/AnaCaroDiaz__
+  linkedin: https://www.linkedin.com/in/anacdiaz/
+
 Ana M. Grijalva:
   name: Ana M. Grijalva
-  bio: Ana M. Grijalva is an economist, education specialist, and social innovator with 10 years of experience. She has vast experience in program development, management, implementation, monitoring, and evaluation, but also in cutting-edge research and data analysis. She has expertise on key issues related to education, labor market, MSME productivity, and governance. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador's public sector and has worked for academia in the United Kingdom and Ecuador. She is excited to collaborate in changing the status quo through public and social innovation, data analysis, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
+  bio: Ana M. Grijalva is an economist, social innovator, and digital advocate with 10 years of experience. She has vast experience in development contexts in program management, implementation, advocacy, partnership building, resource mobilization, monitoring, and evaluation in social projects. She has expertise on key issues related to education, governance, digitalization, labor market, and gender. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador's public sector and has worked for academia in the United Kingdom and Ecuador. She is excited to collaborate in changing the status quo through public and social innovation, digital transformation, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
   email: ana.grijalva@undp.org
   picture_dir: '/imgs/contributors/Ana_grijalva.png'
   organization: UNDP Ecuador Accelerator Lab - Head of Exploration
+  twitter: https://twitter.com/anagri_e
   linkedin: https://www.linkedin.com/in/ana-grijalva
+
+Bethsabe Moreno:
+  name: Bethsabe Moreno
+  bio: Ana M. Grijalva is an economist, social innovator, and digital advocate with 10 years of experience. She has vast experience in development contexts in program management, implementation, advocacy, partnership building, resource mobilization, monitoring, and evaluation in social projects. She has expertise on key issues related to education, governance, digitalization, labor market, and gender. She has worked for different agencies of the United Nations (International Institute for Educational Planning and Economic Commission for Latin America and the Caribbean) and for international organizations such as University of Oxford, Inter-American Development Bank, and World Bank. Also, she has experience in Ecuador's public sector and has worked for academia in the United Kingdom and Ecuador. She is excited to collaborate in changing the status quo through public and social innovation, digital transformation, technology, and civic engagement in her current role as Head of Exploration at the UNDP Accelerator Lab.
+  email: bethsabemoreno@gmail.com
+  picture_dir: '/imgs/contributors/Bethsabe_moreno.png'
+  organization: UNDP Ecuador Accelerator Lab - Innovation consultor
+  twitter: https://twitter.com/MorenoBethsabe
+  linkedin: www.linkedin.com/in/bethsabemoreno
 
 Carlos Mazariegos:
   name: Carlos Mazariegos
@@ -12,21 +39,22 @@ Carlos Mazariegos:
   email: carlos.mazariegos@undp.org
   picture_dir: '/imgs/contributors/Carlos_mazariegos.png'
   organization: UNDP Guatemala Accelerator Lab - Head of Exploration
+  twitter: https://twitter.com/ecce_carolus
   linkedin: https://www.linkedin.com/in/cmazariegos
 
 Gabriel Lama:
   name: Gabriel Lama
-  bio: Por completar
+  bio: Gabriel is a specialist in research for innovation and Cultural Designer, he is passionate about the experiences and formats developed to nurture and strengthen creativity and human bonds. With extensive experience in creative industries and social innovation, he has developed projects with and for public and private institutions and agents of change in Lima, Sao Paulo and Barcelona. As Head of Solution Mapping, he leads the co-creation processes, learning, identification, strengthening and scaling processes of citizen solutions in connection with the global network of Accelerator Labs.
   email: gabriel.lama@undp.org
   picture_dir: '/imgs/contributors/Gabriel_lama.png'
-  organization: UNDP Peru Accelerator Lab - Por completar
+  organization: UNDP Peru Accelerator Lab - Head of Solutions Mapping
   linkedin: https://www.linkedin.com/in/ahoragabriel
 
 Gabriela Rios:
   name: Gabriela Rios
   bio: Gabriela Ríos Landa is the Head of Exploration at the Accelerator Lab of the United Nations Development Programme (UNDP) in Mexico. She is part of a global network of professionals working to reimagine development and accelerate learning to achieve more sustainable futures. Before joining UNDP, she worked at the Laboratory for the City, the experimental arm of the government of Mexico City, developing innovative strategies to address public issues. She holds a master's degree in Future Studies from the Free University of Berlin and a bachelor's degree in Industrial Design from the Iberoamerican University in Mexico City.
   email: gabriela.rios@undp.org
-  #picture_dir: '/imgs/contributors/Mariana_olcese.png'
+  picture_dir: '/imgs/contributors/Gabriela_rios.png'
   organization: UNDP Mexico Accelerator Lab - Head of Exploration
   twitter: https://twitter.com/grioslanda
   linkedin: https://www.linkedin.com/in/gabrielarioslanda
@@ -55,6 +83,7 @@ Lorena Moscovich:
   email: lorena.moscovich@undp.org
   picture_dir: '/imgs/contributors/Lorena_moscovich.png'
   organization: UNDP Argetina Accelerator Lab - Head of Experimentation
+  twitter: https://twitter.com/LMoscovich
   linkedin: https://www.linkedin.com/in/lorena-moscovich-aa95368
 
 Luis Fernando Cervantes:
@@ -80,14 +109,16 @@ María Verónica Moreno:
   email: maria.veronica.moreno@undp.org
   picture_dir: '/imgs/contributors/Maria_moreno.png'
   organization: UNDP Argentina Accelerator Lab - Head of Solutions Mapping
+  twitter: https://twitter.com/grioslanda
   linkedin: https://www.linkedin.com/in/mar%C3%ADa-ver%C3%B3nica-moreno-aa45ba100
 
 Mariana Olcese:
   name: Mariana Olcese
-  bio: Por completar
+  bio: Connector between the public and private sectors, motivated to navigate uncertainty and identify emerging opportunities to translate them to different actors in the system. Her experience includes working as a consultant at the Inter-American Development Bank and the World Bank, an advisor to the Peruvian government, and as a public affairs manager for startups and corporations.
   email: mariana.olcese@undp.org
   picture_dir: '/imgs/contributors/Mariana_olcese.png'
-  organization: UNDP Peru Accelerator Lab - Por completar
+  organization: UNDP Peru Accelerator Lab - Head of Exploration
+  twitter: https://twitter.com/MarianaOlcese
   linkedin: https://www.linkedin.com/in/marianaolcese
   
 Patricia Choque:
