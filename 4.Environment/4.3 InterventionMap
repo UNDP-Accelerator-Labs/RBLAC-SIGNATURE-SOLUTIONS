@@ -1,0 +1,55 @@
+---
+title: by prioritizing environmental interventions through a dynamic map
+parent_order: 4
+nav_order: 3
+layout: default
+
+signature_solutions : [ Environment, Resilience]
+enablers: [Digitalization]
+rblac_priorities: [Resilient Sustainable Development and Green Recovery, Inclusive and Sustainable Growth]
+sdg: [ 11 Sustainable Cities And Communities, 12 Responsible Consumption And Production, 13 Climate Action]
+
+---
+## Dynamic map for municipal environmental interventions’ prioritization
+
+#### What it does. 
+The dynamic map for environmental interventions allows you to 1) combine multiple geolocated municipal-level data layers using a suitability modeler and 2) prioritize municipal environmental interventions.
+
+#### Value proposition for the government/other partner. 
+By having a dynamic map of municipal environmental interventions, you will enable the Ministry of Environment and local government authorities to improve their data-driven decision-making capacities for monitoring and designing environmental practices and policies.
+
+#### Why and when to use it. 
+This tool is most useful when (1) there is a commitment from central and local authorities to adopt an evidence-based approach into their decision-making processes and (2) there are municipal-level statistics available for a region of interest, including at least a municipal boundaries data layer, human development and multidimensional poverty indexes, populated areas estimates, rivers and micro rivers location, and illegal dumpsite locations (for a waste management focus). 
+
+#### Known issues and troubleshooting. 
+It is not yet the best moment to make use of the tool if:
+-(1) there aren’t enough municipal statistics available and/or their quality isn’t consistent;  
+-(2) the government does not have a designated team that can partake on the design and implementation of the methodology;  
+-and (3) the governmental team involved does not have the expertise to utilize GIS open or licensed software used to implement the methodology.  
+
+#### Context. 
+The tool was developed through collaborative efforts involving the Ministry of Environment, UNDP Environment Program, and UNDP Accelerator Lab in Guatemala. The focus was on incorporating evidence-based decision-making methods to guide solid waste management efforts in a specific region. Following a needs assessment stage, and with the support of UNDP HQ GIS specialists, data layers, GIS software, and analysis methods were identified and tested. The outcome was a suitability modeler implemented in ArcGIS, utilizing municipal-level data layers. Currently, the data layers and analyses are in the process of being integrated into the National Information System for Climate Change.
+
+In the latest version of the tool, the combined municipal-level data layers include the UNDP human development index, UNDP multidimensional poverty index, illegal dumpsites reported by the Ministry of Environment, populated areas estimations, rivers, and administrative boundaries.
+
+#### Cost to implement. 
+A budget between USD 3.000 and 4.000 will be required to implement the tool with open-source GIS software, and a budget between USD 5.000 and 6.000will be required to implement the tool with licensed GIS software.
+
+#### Time
+It will take from 3 to 4 months to collect the information, design, and implement the tool. 
+
+#### People. 
+To use this tool the following team members will be required:
+-One developer to prepare data layers and configure the suitability modeler in GIS open or licensed software.  
+-One coordinator to interact with stakeholders, get insights such as the weights for each data layer to be used and user testing experience for improvements.
+
+#### Focal point. 
+[Carlos Mazariegos](https://undp-accelerator-labs.github.io/Innovation-Toolkit-for-UNDP-Signature-Solutions/contributors/Carlos%20Mazariegos.html)
+
+#### Country, year, and language. 
+Guatemala, 2023 - ongoing, Spanish
+
+#### Resources
+-UNDP HQ ITM & Guatemala_Work Plan
+-Dashboard (Spanish) [Prueba de concepto: Mapa Dinámico de Residuos y Desechos Sólidos en la Cuenca del Río Motagua] (https://space4dev.undp.org/space4dev/apps/dashboards/1afe5a432f7b40908384b514e810e088)
+-Manual (English) [ArcGIS Pro, Suitability Modeler documentation] (https://pro.arcgis.com/en/pro-app/latest/help/analysis/spatial-analyst/suitability-modeler/what-is-the-suitability-modeler.htm)
