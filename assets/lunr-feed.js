@@ -134,6 +134,7 @@ var enablers_div = $('#enablers_div')
 var signature_solutions_div = $('#signature_solutions_div')
 
 if(tags.length > 0){
+    tags = tags.sort(customSort);
     let tg = `
     <div class="multi-select" data-multi-select="">
         <button aria-label="Region" aria-expanded="false" data-id="tag">
@@ -173,6 +174,7 @@ if(tags.length > 0){
 }
 
 if(sdg.length > 0){
+    sdg = sdg.sort(customSort);
     let tg = `
     <div class="multi-select" data-multi-select="">
         <button aria-label="Region" aria-expanded="false" data-id="sdg">
@@ -212,6 +214,7 @@ if(sdg.length > 0){
 }
 
 if(enablers.length > 0){
+    enablers = enablers.sort(customSort);
     let tg = `
     <div class="multi-select" data-multi-select="">
         <button aria-label="Region" aria-expanded="false" data-id="enablers">
@@ -251,6 +254,7 @@ if(enablers.length > 0){
 }
 
 if(signature_solutions.length > 0){
+    signature_solutions = signature_solutions.sort(customSort);
     let tg = `
     <div class="multi-select" data-multi-select="">
         <button aria-label="Region" aria-expanded="false" data-id="signature_solutions">
@@ -290,6 +294,7 @@ if(signature_solutions.length > 0){
 }
 
 if(rblac_priorities.length > 0){
+    rblac_priorities = rblac_priorities.sort(customSort);
     let tg = `
     <div class="multi-select" data-multi-select="">
         <button aria-label="Region" aria-expanded="false" data-id="rblac_priorities">
@@ -350,6 +355,28 @@ let searchitemfn = post => `
 let resultdiv = $('#results');
 let contentdiv = $('#content');
 let contentCopy = $("#content").html(); // Store the current content
+
+function customSort(a, b) {
+    // Check if strings start with a number
+    let startsWithNumberA = /^\d+/.test(a);
+    let startsWithNumberB = /^\d+/.test(b);
+    
+    // If both start with numbers, sort by number
+    if (startsWithNumberA && startsWithNumberB) {
+        let numA = parseInt(a.match(/^\d+/)[0]);
+        let numB = parseInt(b.match(/^\d+/)[0]);
+        return numA - numB;
+    } else if (startsWithNumberA) {
+        // If only a starts with a number, it comes first
+        return -1;
+    } else if (startsWithNumberB) {
+        // If only b starts with a number, it comes first
+        return 1;
+    } else {
+        // Otherwise, sort alphabetically
+        return a.localeCompare(b);
+    }
+}
 
 let filterresult = () => {
     resultdiv.empty()
