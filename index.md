@@ -13,6 +13,9 @@ This toolkit compiles innovative and creative tools developed by the Accelerator
 Huge thanks to everyone who contributed to creating this prototype. All contributors and curators are part of the UNDP Accelerator Labs unless otherwise indicated. A full list, along with each one’s contact information, is available on the Contributors page.
 
 Technical leadership: Ana M. Grijalva (Ecuador-Acc Lab)
+
 Technical support: Gabriela Ríos (Mexico – Acc Lab) & Ana Carolina Díaz (RBLAC)
+
 Curation: Bethsabe Moreno (Ecuador-Acc Lab)
+
 Software development: Adedapo Aderemi (Global Team)
