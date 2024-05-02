@@ -28,7 +28,7 @@ The file `contributors.yml` contains the data about contributors. The website us
 
 ### Monitoring usage
 
-As of 2024-05-02, we have added a simple pageviews counter. We chose [Goat Counter](https://www.goatcounter.com) because it's completely open source, independent, and free for small sites. If you are duplicating the repo, remember to replace the snippet of code that calls the usage monitoring script: you will find it at the end of the `default.htlm` file, before the `</body>` tag. Usage statistics are visible here: [https://undp-nie-toolkit.goatcounter.com/](https://signature-solution.goatcounter.com/).  [Adedapo Aderemi](mailto:adedapo.aderemi@undp.org) is the admin of the Goat Counter account. 
+As of 2024-05-02, we have added a simple pageviews counter. We chose [Goat Counter](https://www.goatcounter.com) because it's completely open source, independent, and free for small sites. If you are duplicating the repo, remember to replace the snippet of code that calls the usage monitoring script: you will find it at the end of the `default.htlm` file, before the `</body>` tag. Usage statistics are visible here: [https://signature-solution.goatcounter.com/](https://signature-solution.goatcounter.com/).  [Adedapo Aderemi](mailto:adedapo.aderemi@undp.org) is the admin of the Goat Counter account. 
 
 
 ## License
